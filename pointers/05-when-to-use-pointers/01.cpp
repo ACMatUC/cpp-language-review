@@ -42,8 +42,6 @@ int main()
     passByRefOperator(myInt);
     std::cout << *ptr << " " << myInt << std::endl;
 
-    delete ptr;
-
     return 0;
 }
 
