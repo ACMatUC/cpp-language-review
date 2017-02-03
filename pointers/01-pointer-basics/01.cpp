@@ -6,6 +6,7 @@ int main()
 {
     /*We all know what an int is.*/
     int myInt = 5;
+    std::cout << *myInt;
 
     /*And every variable has an address in memory.
      *This address is accessed using the reference operator, &.*/

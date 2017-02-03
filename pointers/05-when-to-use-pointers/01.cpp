@@ -1,7 +1,7 @@
 /* When to use pointers */
 
 /*
-Pointers provide a lot of flexability, but as the saying goes, with great power 
+Pointers provide a lot of flexibility, but as the saying goes, with great power 
 comes great responsibility.
 
 In a lot of cases just creating an instance to your object, type, or struct on the stack
