@@ -15,8 +15,8 @@ public:
     int GetArea() { return length * width; };
     
     /* These functions can set the values of the variables in the class. */
-    int SetLength(int l) { length = l; };
-    int SetWidth(int w) { width = w; };
+    void SetLength(int l) { length = l; };
+    void SetWidth(int w) { width = w; };
 
     /* This is a constructor. It is used to initialize the class. */
     Rectangle() { length = 0; width = 0; };
